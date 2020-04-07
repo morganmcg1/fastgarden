@@ -10,4 +10,6 @@ Top result so far:
 
 ### Day 1
 17 experiments around xresnet50 with Mish and Ranger: lr tuning, training schedules and progressive resizing
+
+
 ![Image of Yaktocat](images/fastgarden_day1.png)
